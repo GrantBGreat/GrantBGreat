@@ -26,12 +26,5 @@ jobs:
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2%
           
-          # habbits
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          config_timezone: Canada/Eastern # Set timezone
-          
           # isocalendar
           plugin_isocalendar: yes
