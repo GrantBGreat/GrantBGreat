@@ -32,4 +32,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: "https://realbraingames.com/#/"
