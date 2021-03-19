@@ -21,3 +21,6 @@ I used [github metrics](https://github.com/lowlighter/metrics) inside my readme 
   plugin_pagespeed: yes
   plugin_pagespeed_url: "https://realbraingames.com/#/"
 ```
+
+
+### Discaimer: I am in no ways associated with lowligher or Github Metrics. I just hope this document can help someone out. 🤷‍♂️
