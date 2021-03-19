@@ -23,4 +23,4 @@ I used [github metrics](https://github.com/lowlighter/metrics) inside my readme 
 ```
 
 
-### Discaimer: I am in no ways associated with lowligher or Github Metrics. I just hope this document can help someone out. 🤷‍♂️
+#### Discaimer: I am in no ways associated with lowligher or Github Metrics. I just hope this document can help someone out. 🤷‍♂️
