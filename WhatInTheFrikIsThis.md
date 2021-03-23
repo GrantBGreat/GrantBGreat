@@ -16,7 +16,7 @@ I used [github metrics](https://github.com/lowlighter/metrics) inside my readme 
   plugin_isocalendar_duration: half-year
   plugin_languages: yes
   plugin_languages_colors: github
-  plugin_languages_threshold: 0%
+  plugin_languages_threshold: 1.5%
   plugin_lines: yes
   plugin_pagespeed: yes
   plugin_pagespeed_url: "https://realbraingames.com/#/"
