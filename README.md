@@ -14,7 +14,7 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 ```js
 {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Java", "Python", "Vue", "HTML", "CSS", "Lua"],
+  code: ["Javascript", "Java", "Python", "HTML", "CSS", "Lua"],
   askMeAbout: ["backend dev", "web scraping", "robotics"],
   computers: {
     desktop: {
