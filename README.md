@@ -1,4 +1,5 @@
-### Hi, I'm Grant!
+<h1 align="center">Welcome to <a href="https://github.com/GrantBGreat">GrantBGreat</a>'s Profile!</h1>
+
 
 
 
