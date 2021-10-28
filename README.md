@@ -18,7 +18,7 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
   askMeAbout: ["backend dev", "web scraping", "robotics"],
   computers: {
     desktop: {
-      cpu: "Intel i7 8086k"
+      cpu: "Intel i7 8086k",
       gpu: "RTX 2080",
       os: "Windows 10"
     },
