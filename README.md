@@ -1,7 +1,10 @@
 ### Hi, I'm Grant!
 
 
-
----
-
-<p align="center"><img align="center" src="https://github.com/GrantBGreat/GrantBGreat/blob/main/github-metrics.svg"></img></p>
+<br>
+<hr>
+<br>
+<p align="center">
+  <h1>Metrics</h1>
+  <img src="https://github.com/GrantBGreat/GrantBGreat/blob/main/github-metrics.svg"></img>
+</p>
