@@ -5,7 +5,9 @@
 
 I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+* 💻 Lead bot programmer
+* 😳 Over 80 hours in one week before competition last season
+* 😎 [Viper]()
 
 
 
