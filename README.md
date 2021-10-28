@@ -11,7 +11,7 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 * 😎 [Viper](https://www.instagram.com/p/B9ZtMfghWCd/?utm_source=ig_web_copy_link)
 
 ### Background:
-```json
+```js
 {
   pronouns: "He" | "Him",
   code: ["Javascript", "Java", "Vue", "HTML", "CSS", "Lua"],
