@@ -8,9 +8,28 @@
 I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 * 💻 Lead bot programmer
 * 😳 Over 80 hours in one week before competition last season
-* 😎 [Viper]()
+* 😎 [Viper](https://www.instagram.com/p/B9ZtMfghWCd/?utm_source=ig_web_copy_link)
 
-
+### Background:
+```json
+{
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Java", "Vue", "HTML", "CSS", "Lua"],
+  askMeAbout: ["backend dev", "web scraping", "robotics"],
+  computers: {
+    desktop: {
+      cpu: "Intel i7 8086k"
+      gpu: "RTX 2080",
+      os: "Windows 10"
+    },
+    laptop: {
+      model: "Thinkpad x1 Yoga 4th gen",
+      cpu: "Intel i7 8665U",
+      dualboot: ["Arch Linux", "Windows 10"]
+    }
+  }
+}
+```
 
 
 <h2 align="center">Metrics</h2>
