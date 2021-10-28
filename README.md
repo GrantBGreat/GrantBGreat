@@ -5,6 +5,6 @@
 <hr>
 <br>
 <p align="center">
-  <h1>Metrics</h1>
-  <img src="https://github.com/GrantBGreat/GrantBGreat/blob/main/github-metrics.svg"></img>
+  <h1 align="center">Metrics</h1>
+  <img align="center" src="https://github.com/GrantBGreat/GrantBGreat/blob/main/github-metrics.svg"></img>
 </p>
