@@ -10,6 +10,8 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 * 😳 Over 80 hours in one week before competition last season
 * 😎 [Viper](https://www.instagram.com/p/B9ZtMfghWCd/?utm_source=ig_web_copy_link)
 
+
+
 ### Background:
 ```js
 {
@@ -30,6 +32,7 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
   }
 }
 ```
+
 
 
 <h2 align="center">Metrics</h2>
