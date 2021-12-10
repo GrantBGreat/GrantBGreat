@@ -10,6 +10,8 @@ I used [github metrics](https://github.com/lowlighter/metrics) inside my readme 
   template: classic
   base: ""
   config_timezone: America/Toronto
+
+  # Plugins
   plugin_introduction: yes
   plugin_introduction_title: yes
   plugin_isocalendar: yes
@@ -17,9 +19,16 @@ I used [github metrics](https://github.com/lowlighter/metrics) inside my readme 
   plugin_languages: yes
   plugin_languages_colors: github
   plugin_languages_threshold: 1.5%
-  plugin_lines: yes
-  plugin_pagespeed: yes
-  plugin_pagespeed_url: "https://realbraingames.com/#/"
+  plugin_languages_details: bytes-size, percentage
+  plugin_code: yes
+  plugin_code_lines: 12
+  plugin_code_load: 100
+  plugin_code_visibility: public
+  plugin_people: yes
+  plugin_people_types: followers, contributors
+  plugin_people_limit: 28
+  plugin_people_size: 28
+  plugin_people_identicons: no
 ```
 
 
