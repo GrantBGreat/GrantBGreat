@@ -17,7 +17,7 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 {
   pronouns: "He" | "Him",
   code: ["Javascript", "Java", "C#", "Python", "HTML", "CSS", "Lua"],
-  askMeAbout: ["backend dev", "web scraping", "robotics"],
+  askMeAbout: ["unity", "web scraping", "robotics"],
   computers: {
     desktop: {
       cpu: "Intel i7 8086k",
