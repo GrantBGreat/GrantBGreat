@@ -22,7 +22,7 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
     desktop: {
       cpu: "Intel i7 8086k",
       gpu: "RTX 2080",
-      os: "Windows 10"
+      boot: "Windows 10"
     },
     laptop: {
       model: "Thinkpad x1 Yoga 4th gen",
