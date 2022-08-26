@@ -16,8 +16,8 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 ```js
 {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Java", "C#", "Python", "HTML", "CSS", "Lua"],
-  askMeAbout: ["Unity", "Web Scraping", "Robotics"],
+  code: [ "Javascript", "Java", "C#", "Python", "HTML", "CSS", "Lua" ],
+  askMeAbout: [ "Unity", "Web Scraping", "Robotics" ],
   computers: {
     desktop: {
       cpu: "Intel i7 8086k",
@@ -27,7 +27,7 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
     laptop: {
       model: "Thinkpad x1 Yoga 4th gen",
       cpu: "Intel i7 8665U",
-      dualboot: ["Arch Linux", "Windows 10"]
+      dualboot: [ "Arch Linux", "Windows 10" ]
     }
   }
 }
