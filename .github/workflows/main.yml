@@ -34,7 +34,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_threshold: 1.5%
-          plugin_languages_ignored: html
+#           plugin_languages_ignored: html
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           
