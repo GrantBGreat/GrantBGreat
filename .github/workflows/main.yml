@@ -36,7 +36,7 @@ jobs:
           plugin_languages_threshold: 1.5%
           plugin_languages_ignored: html
           plugin_languages_indepth: yes
-          commits_authoring: Grant Bourne, GrantBGreat, grant@rbgn.ca
+          commits_authoring: firstname lastname, username, grant@rbgn.ca
           plugin_languages_details: lines, bytes-size
           
           plugin_code: yes
