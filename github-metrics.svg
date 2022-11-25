@@ -34,14 +34,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.17140936589738" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="155.17140936589738" y="0" width="109.21950855179625" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="264.3909179176936" y="0" width="63.32773172006871" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="327.7186496377623" y="0" width="50.65016057958025" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="378.36881021734257" y="0" width="40.688905071327206" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="419.0577152886698" y="0" width="19.286914631413847" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="438.34462992008366" y="0" width="14.00888789304653" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="452.35351781313017" y="0" width="7.646482186869818" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.14026891681874" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="155.14026891681874" y="0" width="109.19758992285327" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="264.337858839672" y="0" width="63.31502284532849" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="327.6528816850005" y="0" width="50.63999589297465" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="378.29287757797516" y="0" width="40.68073945124541" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="418.9736170292206" y="0" width="19.37535878133357" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="438.3489758105541" y="0" width="14.00607653068368" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="452.3550523412378" y="0" width="7.644947658762198" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -121,7 +121,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>8.98 kB</div>
+                                <div>9.03 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1204,7 +1204,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Nov 2022, 13:23:28
+                            On 25 Nov 2022, 13:45:37
                         </div>
                     </section>
                 </div>
@@ -1214,13 +1214,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            the button
+                            oh no don't rick roll me
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">04cd5ec9</span>
+                            <span class="code">d5582871</span>
                             <span class="code">docs/index.html</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
@@ -1229,7 +1229,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;!DOCTYPE html&gt;&lt;html lang=""&gt;&lt;head&gt;&lt;meta charset=utf-8&gt;&lt;meta http-equiv=X-UA-Compatible content="IE=edge"&gt;&lt;meta name=viewport content="width=device-width,initial-scale=1"&gt;&lt;link rel=icon href=/favicon.ico&gt;&lt;title&gt;GrantBGreat's site&lt;/title&gt;&lt;link href=/css/app.dba68235.css rel=preload as=style&gt;&lt;link href=/js/app.d4bc551b.js rel=preload as=script&gt;&lt;link href=/js/chunk-vendors.6727f6bb.js rel=preload as=script&gt;&lt;link href=/css/app.dba68235.css rel=stylesheet&gt;&lt;/head&gt;&lt;body&gt;&lt;noscript&gt;&lt;strong&gt;We're sorry but Webpack App doesn't work properly without JavaScript enabled. Please enable it to continue.&lt;/strong&gt;&lt;/noscript&gt;&lt;div id=app&gt;&lt;/div&gt;&lt;script src=/js/chunk-vendors.6727f6bb.js&gt;&lt;/script&gt;&lt;script src=/js/app.d4bc551b.js&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;!DOCTYPE html&gt;&lt;html lang=""&gt;&lt;head&gt;&lt;meta charset=utf-8&gt;&lt;meta http-equiv=X-UA-Compatible content="IE=edge"&gt;&lt;meta name=viewport content="width=device-width,initial-scale=1"&gt;&lt;link rel=icon href=/favicon.ico&gt;&lt;title&gt;GrantBGreat's site&lt;/title&gt;&lt;link href=/css/app.9fdd198b.css rel=preload as=style&gt;&lt;link href=/js/app.0d227d65.js rel=preload as=script&gt;&lt;link href=/js/chunk-vendors.ab0c2103.js rel=preload as=script&gt;&lt;link href=/css/app.9fdd198b.css rel=stylesheet&gt;&lt;/head&gt;&lt;body&gt;&lt;noscript&gt;&lt;strong&gt;We're sorry but Webpack App doesn't work properly without JavaScript enabled. Please enable it to continue.&lt;/strong&gt;&lt;/noscript&gt;&lt;div id=app&gt;&lt;/div&gt;&lt;script src=/js/chunk-vendors.ab0c2103.js&gt;&lt;/script&gt;&lt;script src=/js/app.0d227d65.js&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;!DOCTYPE html&gt;&lt;html lang=""&gt;&lt;head&gt;&lt;meta charset=utf-8&gt;&lt;meta http-equiv=X-UA-Compatible content="IE=edge"&gt;&lt;meta name=viewport content="width=device-width,initial-scale=1"&gt;&lt;link rel=icon href=/favicon.ico&gt;&lt;title&gt;GrantBGreat's site&lt;/title&gt;&lt;link href=/css/app.9fdd198b.css rel=preload as=style&gt;&lt;link href=/js/app.6b9911ac.js rel=preload as=script&gt;&lt;link href=/js/chunk-vendors.ab0c2103.js rel=preload as=script&gt;&lt;link href=/css/app.9fdd198b.css rel=stylesheet&gt;&lt;/head&gt;&lt;body&gt;&lt;noscript&gt;&lt;strong&gt;We're sorry but Webpack App doesn't work properly without JavaScript enabled. Please enable it to continue.&lt;/strong&gt;&lt;/noscript&gt;&lt;div id=app&gt;&lt;/div&gt;&lt;script src=/js/chunk-vendors.ab0c2103.js&gt;&lt;/script&gt;&lt;script src=/js/app.6b9911ac.js&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;!DOCTYPE html&gt;&lt;html lang=""&gt;&lt;head&gt;&lt;meta charset=utf-8&gt;&lt;meta http-equiv=X-UA-Compatible content="IE=edge"&gt;&lt;meta name=viewport content="width=device-width,initial-scale=1"&gt;&lt;link rel=icon href=/favicon.ico&gt;&lt;title&gt;GrantBGreat's site&lt;/title&gt;&lt;link href=/css/app.9fdd198b.css rel=preload as=style&gt;&lt;link href=/js/app.4dfd6590.js rel=preload as=script&gt;&lt;link href=/js/chunk-vendors.ab0c2103.js rel=preload as=script&gt;&lt;link href=/css/app.9fdd198b.css rel=stylesheet&gt;&lt;/head&gt;&lt;body&gt;&lt;noscript&gt;&lt;strong&gt;We're sorry but Webpack App doesn't work properly without JavaScript enabled. Please enable it to continue.&lt;/strong&gt;&lt;/noscript&gt;&lt;div id=app&gt;&lt;/div&gt;&lt;script src=/js/chunk-vendors.ab0c2103.js&gt;&lt;/script&gt;&lt;script src=/js/app.4dfd6590.js&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
