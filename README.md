@@ -21,13 +21,11 @@ I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
   computers: {
     desktop: {
       cpu: "Intel i7 8086k",
-      gpu: "RTX 2080",
-      boot: "Windows 10"
+      gpu: "RTX 2080"
     },
     laptop: {
       model: "Thinkpad x1 Yoga 4th gen",
-      cpu: "Intel i7 8665U",
-      dualboot: [ "Arch Linux", "Windows 10" ]
+      cpu: "Intel i7 8665U"
     }
   }
 }
