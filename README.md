@@ -7,7 +7,7 @@
 
 I am a robotics student on [FRC Team 7558 Alt-F4](https://www.team7558.com/).
 * 💻 Lead programmer & 🎮 Driver
-* 😳 Over 80 hours in one week before competition
+* ✈ 2023 World Championship Contenders in Houston
 * 😎 [Venus](https://youtu.be/uw3s1iUcLhg)
 
 
